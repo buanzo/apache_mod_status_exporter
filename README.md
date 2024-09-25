@@ -21,7 +21,7 @@ This script is an Apache `mod_status` exporter for Prometheus. It collects Apach
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/apache_mod_status_exporter.git
+    git clone https://github.com/buanzo/apache_mod_status_exporter
     cd apache_mod_status_exporter
     ```
 
