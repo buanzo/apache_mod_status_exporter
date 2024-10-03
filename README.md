@@ -87,7 +87,7 @@ The exporter collects the following metrics from Apache:
 - `apache_uptime`: Uptime in seconds.
 - `apache_req_per_sec`: Requests per second.
 - `apache_bytes_per_sec`: Bytes transferred per second.
-- `apache_worker_ratio`: Ratio of busy to idle workers.
+- `apache_worker_ratio`: Ratio of busy to idle workers (custom, calculated by the exporter).
 - `apache_busy_workers`: Number of busy workers.
 - `apache_idle_workers`: Number of idle workers.
 
